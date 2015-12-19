@@ -24,5 +24,4 @@ system/
 .env
 .powenv
 .rvmrc
-.ruby-version
 .vagrant
