@@ -8,3 +8,6 @@ before_script:
   - bundle exec rake db:setup
 
 script: 'bundle exec rspec'
+
+notifications:
+  slack: walkant:LL2Wx3D6S15mHjF63NQLrUV5
